@@ -8,3 +8,4 @@
 4) Удаление каталогов
 5) Управление клавиатурой
 ---
+![image](https://user-images.githubusercontent.com/84473401/161115145-678fa705-bcc2-4fd7-bf24-b5b92f31ade5.png)
